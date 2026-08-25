@@ -1,176 +1,186 @@
-# 👋 Hi, I'm Sneha Gond
+# Hi, I'm Sneha 👋
 
-### MSc Data Science Student @ Chandigarh University | BCA Graduate
+### MSc Data Science @ Chandigarh University · BCA Graduate · Builder · Learner
 
-I'm a technology enthusiast who enjoys **building, learning, and experimenting with different areas of tech**.
+I’m a technology enthusiast who loves turning ideas into **working, practical solutions**.
 
-Currently pursuing my **MSc in Data Science at Chandigarh University**, while building on my foundation in software development, databases, and web technologies.
+Currently pursuing my **MSc in Data Science at Chandigarh University**, while building on my background in software development, databases, web technologies, and problem solving.
 
-I enjoy turning ideas into practical projects and continuously exploring new technologies through projects, hackathons, technical communities, and hands-on learning.
-
----
-
-## 🎓 Education
-
-**Chandigarh University**
-🎓 MSc Data Science
-`2026 – Present`
-
-**Bachelor of Computer Applications (BCA)**
-`Completed 2026`
+I learn best by **building things, experimenting with technology, and solving real problems**.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 What I'm Working On
 
-### Programming
+🎓 Pursuing **MSc Data Science**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+🐍 Strengthening my skills in **Python & SQL**
 
-### Web Development
+📊 Exploring **Data Science, Data Analytics & Statistics**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+💻 Continuing to build with **software & web technologies**
 
-### Databases
+🧠 Improving my problem-solving and DSA skills
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat\&logo=jira\&logoColor=white)
+🔨 Turning what I learn into practical projects
 
 ---
 
-## 📊 Currently Learning
+## 🧰 Tech Stack
 
-As part of my MSc Data Science journey, I'm currently strengthening my foundations in:
+**Languages**
 
-* 🐍 Python for Data Science
-* 🗄️ SQL & Database Management
-* 📊 Data Analytics
-* 📈 Statistics
-* 🔍 Data Science Fundamentals
-* 🧮 Problem Solving & DSA
+`Python` `Java` `JavaScript` `SQL`
 
-I'm focused on learning through **hands-on projects rather than theory alone**.
+**Web & Backend**
+
+`HTML` `CSS` `Bootstrap` `React` `Node.js` `Express`
+
+**Databases**
+
+`MySQL` `MongoDB` `Oracle SQL`
+
+**Tools**
+
+`Git` `GitHub` `Postman` `JIRA` `Eclipse`
+
+**Exploring**
+
+`Data Science` `Data Analytics` `Statistics` `Cloud Technologies`
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 🛡️ ShieldTalk
 
-A secure communication platform developed as a final-year project and SIH prototype.
+**Secure communication & authentication platform**
 
-**Tech:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Socket.IO, JWT
+A final-year project and SIH prototype focused on building a secure communication ecosystem.
 
-**Highlights:**
+**Built with:**
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-* Secure authentication and authorization
+**Highlights**
+
+* Secure authentication using JWT
 * Real-time communication
-* AI-assisted liveness verification
-* Face-based authentication features
+* Multi-step authentication
+* Face-based verification
+* AI-assisted liveness features
 * Encrypted communication
 * Administrative controls
 
-🔗 [View Repository](https://github.com/Sneha2006sgr/shieldtalk)
+→ **[Explore ShieldTalk](https://github.com/Sneha2006sgr/shieldtalk)**
 
 ---
 
 ### 🎓 Digital University
 
-A hackathon project developed to explore the concept of a digital university platform.
+**Hackathon Project · Built in 24 Hours**
 
-**Tech:** Web Technologies, JavaScript, JSON
+A collaborative project developed during the **Build & Grow Hackathon** organized by Google Cloud GDG Mumbai & Pune.
 
-Built collaboratively during a **24-hour hackathon**, focusing on developing a functional solution within a limited timeframe.
+The project explores a digital university ecosystem and demonstrates rapid problem-solving, collaboration and development under a time constraint.
 
-🔗 [View Repository](https://github.com/Sneha2006sgr/DIGITAL_UNIVERSITY_Techie)
+**Built with:**
+`JavaScript` `Web Technologies` `JSON`
+
+→ **[Explore Digital University](https://github.com/Sneha2006sgr/DIGITAL_UNIVERSITY_Techie)**
 
 ---
 
-### 🔐 PixelGuard / Stegno
+### 🔐 Stegno
 
-A security-focused project exploring **image steganography** and data protection.
+**Image Steganography & Data Security**
 
-**Tech:** Python, Tkinter, AES-256, LSB Steganography
+A Python-based project exploring secure information hiding using image steganography.
 
-The project explores hiding information inside images while incorporating encryption for an additional layer of security.
+**Built with:**
+`Python` `Tkinter` `AES-256` `LSB Steganography`
 
-🔗 [View Repository](https://github.com/Sneha2006sgr/Stegno)
+→ **[Explore Stegno](https://github.com/Sneha2006sgr/Stegno)**
 
 ---
 
 ### 🪙 CryptoSphere
 
-A web-based project built while exploring modern frontend development.
+**Modern Web Application**
 
-**Tech:** React, TypeScript, JavaScript
+A frontend project built while exploring modern web development and TypeScript.
 
-🔗 [View Repository](https://github.com/Sneha2006sgr/NSPROJECT)
+**Built with:**
+`React` `TypeScript` `JavaScript`
+
+→ **[Explore CryptoSphere](https://github.com/Sneha2006sgr/NSPROJECT)**
 
 ---
 
-## 🏆 Hackathons & Technical Activities
+## 🏆 Beyond Code
 
-* 🚀 Participated in **Build & Grow Hackathon** organized by Google Cloud GDG Mumbai & Pune
-* 💻 Built **Digital University** within 24 hours during a hackathon
+I enjoy being involved in technology beyond individual projects.
+
+* 🚀 Participated in **Build & Grow Hackathon — Google Cloud GDG Mumbai & Pune**
 * 🏆 Participated in **Avishkaar MU**
-* 🌐 Organized **INDIANEXT**, a national-level hackathon with 200+ registered teams and 750+ participants
-* 👩‍💻 Founder of **Code Craft**, a student-focused technical community
-* 🎤 Conducted technical workshops covering Web Development and Web Technologies
+* 🌐 Organized **INDIANEXT**, a national-level hackathon with **200+ registered teams and 750+ participants**
+* 👩‍💻 Founded **Code Craft**, a student-focused technical community
+* 🎤 Conducted workshops on **Web Development & Web Technologies**
+* 🏅 Received **Best Student Manager** recognition from Mumbai University
 
 ---
 
 ## 💼 Experience
 
-### AI Intern — Microsoft × AICTE × Edunet
+### AI Intern
 
-**April 2025 – May 2025**
+**Microsoft × AICTE × Edunet**
 
-Worked on an AI-focused internship experience involving practical exposure to artificial intelligence concepts and technologies.
+`April 2025 – May 2025`
 
----
-
-## 🌱 What I'm Focused On
-
-Currently, I'm working toward becoming a stronger **data and technology professional** by combining my existing software-development foundation with my growing knowledge of Data Science.
-
-I'm particularly interested in:
-
-**Data • Technology • Problem Solving • AI • Software Development**
+Gained practical exposure to artificial intelligence through an industry-oriented internship experience.
 
 ---
 
-## 📈 My Approach
+## 🎓 Education
 
-> **Learn → Build → Experiment → Improve → Repeat**
+### Chandigarh University
 
-I believe the best way to learn technology is to build things, break things, understand why they broke, and build them better.
+**MSc Data Science**
+`2026 – Present`
+
+### Bachelor of Computer Applications
+
+**BCA · Completed 2026**
+
+---
+
+## 🧭 My Current Direction
+
+I'm currently building the bridge between my **software-development foundation** and my growing knowledge of **Data Science**.
+
+My goal isn't to limit myself to one technology.
+
+I want to understand how things work, build them, analyze them, improve them — and keep expanding what I can create.
+
+**Software → Data → Intelligence**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating on interesting projects, participating in hackathons, and connecting with people passionate about technology.
+I'm always interested in:
 
-🌐 **Portfolio:** [snehasgr.vercel.app](https://snehasgr.vercel.app/)
+`Tech Projects` · `Hackathons` · `Data` · `Open Source` · `Collaboration` · `Learning`
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sneha-gond/)
+🌐 **Portfolio**
+https://snehasgr.vercel.app/
 
-🐙 **GitHub:** [@Sneha2006sgr](https://github.com/Sneha2006sgr)
+💼 **LinkedIn**
+https://www.linkedin.com/in/sneha-gond/
+
+🐙 **GitHub**
+https://github.com/Sneha2006sgr
 
 ---
 
-### ✨ Keep Learning. Keep Building. Keep Growing.
+### Building. Learning. Experimenting. Growing. 🚀
