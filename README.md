@@ -167,7 +167,7 @@ I'm always open to learning, collaborating on interesting projects, participatin
 
 🌐 **Portfolio:** [snehasgr.vercel.app](https://snehasgr.vercel.app/)
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sneha-gond/)
 
 🐙 **GitHub:** [@Sneha2006sgr](https://github.com/Sneha2006sgr)
 
