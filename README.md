@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sneha2006sgr&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Sneha2006sgr&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile views"/> -->
 
 </div>
 
